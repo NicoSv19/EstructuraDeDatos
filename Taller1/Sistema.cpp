@@ -245,7 +245,7 @@ void NumeroVentaBodega(){ //RF5
         }
     }
 }
-void VentaBodega(){
+void VentaBodega(){ //RF6
 	NodoCliente actual = c->front;
 	while(actual != NULL){
 		string presente;
