@@ -33,9 +33,9 @@ void printmenuWarehouse(){
 	cout<<"|                 Warehouse Menu                 |"<<endl;
 	cout<<"|================================================|"<<endl;
 	cout<<"| Options:                                       |"<<endl;
-	cout<<"|	>> 1 << Reserve number for Warehouse sale.  |"<<endl;
+	cout<<"|	  >> 1 << Reserve number for Warehouse sale.  |"<<endl;
 	cout<<"|    >> 2 << Attend by number.                   |"<<endl;
-	cout<<"|    >> 4 << Close the Menu.                     |"<<endl;
+	cout<<"|    >> 3 << Close the Menu.                     |"<<endl;
 	cout<<"|================================================|"<<endl;
 	cout<<"	Enter one option(1,2,3):  ";
 }
@@ -67,7 +67,7 @@ void printmenuWeb(){
 	cout<<"|                    Web Menu                    |"<<endl;
 	cout<<"|================================================|"<<endl;
 	cout<<"| Options:                                       |"<<endl;
-	cout<<"|	>> 1 << The cashier view.                   |"<<endl;
+	cout<<"|	  >> 1 << The cashier view.                   |"<<endl;
 	cout<<"|    >> 2 << Show sales details.                 |"<<endl;
 	cout<<"|    >> 3 << Close the Menu.                     |"<<endl;
 	cout<<"|================================================|"<<endl;
@@ -102,7 +102,7 @@ void printmenuVenta(){
 	cout<<"|                   Sale Menu                    |"<<endl;
 	cout<<"|================================================|"<<endl;
 	cout<<"| Options:                                       |"<<endl;
-	cout<<"|	>> 1 << Warehouse sale Menu.                |"<<endl;
+	cout<<"|	  >> 1 << Warehouse sale Menu.                |"<<endl;
 	cout<<"|    >> 2 << The cashier view.                   |"<<endl;
 	cout<<"|    >> 3 << Show sales details.                 |"<<endl;
 	cout<<"|    >> 4 << Close the Menu.                     |"<<endl;
@@ -143,7 +143,7 @@ void printmenu(){
 	cout<<"|            Initial System Menu                 |"<<endl;
 	cout<<"|================================================|"<<endl;
 	cout<<"| Options:                                       |"<<endl;
-	cout<<"|	>> 1 << Initialize to the Sale Menu.        |"<<endl;
+	cout<<"|	  >> 1 << Initialize to the Sale Menu.        |"<<endl;
 	cout<<"|    >> 2 << Initialize to the Web Menu.         |"<<endl;
 	cout<<"|    >> 3 << Close the System.                   |"<<endl;
 	cout<<"|================================================|"<<endl;
