@@ -262,5 +262,4 @@ void VentaBodega(){
 }
 
 string Sistema::printListGames(){return listGames.printList();}
-string Sistema::printListClient(){return listClients.printClients();
-				 }
+string Sistema::printListClient(){return listClients.printClients();}
